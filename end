@@ -1,0 +1,55 @@
+[33mcommit 699ee09e12de816cc1fd1c5d31a4294516efae02[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mdevelopment[m[33m)[m
+Merge: e252143 4b2274c
+Author: Anis Hamada <mranishamada@gmail.com>
+Date:   Tue Aug 25 22:07:47 2026 +0100
+
+    Merge conflicts Solved
+
+[33mcommit e2521433911789c49af9692385e7df055b3e10e4[m
+Author: Anis Hamada <mranishamada@gmail.com>
+Date:   Tue Aug 25 22:01:56 2026 +0100
+
+    Added 444 in tht end
+
+[33mcommit 4b2274ca47deacbfc37ef70c2a199bb80d8a2c79[m[33m ([m[1;32mstaging[m[33m)[m
+Author: Anis Hamada <mranishamada@gmail.com>
+Date:   Tue Aug 25 21:59:34 2026 +0100
+
+    Chnaged file four.txt added the second 4 in the end of it
+
+[33mcommit 9b24ec4930b773741a670639a91e03c0f1e13cc9[m
+Merge: 01948b1 29dd316
+Author: Anis Hamada <mranishamada@gmail.com>
+Date:   Tue Aug 25 21:23:16 2026 +0100
+
+    Merging the main into the Developmnet
+
+[33mcommit 29dd316e3a66206b8ad19e60be3bec9bb27eab8d[m[33m ([m[1;32mmain[m[33m)[m
+Author: Anis Hamada <mranishamada@gmail.com>
+Date:   Tue Aug 25 21:19:33 2026 +0100
+
+    I have made some changes on the four.txt file and added 4 at the end of it this is in the main branch
+
+[33mcommit 01948b17888d7cbc088712c08bd6555c0d47c70b[m
+Author: Anis Hamada <mranishamada@gmail.com>
+Date:   Tue Aug 25 21:15:51 2026 +0100
+
+    I created the Three.txt file and typed three there
+
+[33mcommit 2fc1f15d582167905825df117657910f2bd7e5f2[m
+Author: Anis Hamada <mranishamada@gmail.com>
+Date:   Mon Aug 24 14:08:59 2026 +0100
+
+    I have made some changes to the files
+
+[33mcommit 2d11cfcdc74c6f1c051dfdd2419c4b416312bea1[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Anis Hamada <mranishamada@gmail.com>
+Date:   Mon Aug 24 13:10:44 2026 +0100
+
+    Add new file two.txt with content 'two'
+
+[33mcommit eb28b8a0ff8b6c4dc68b21fd67245f550df85c74[m
+Author: Anis Hamada <mranishamada@gmail.com>
+Date:   Mon Aug 24 13:10:25 2026 +0100
+
+    Add one.txt with initial content 'one'
